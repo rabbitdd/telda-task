@@ -1,0 +1,1 @@
+insert into regions (name, shortname) values ('g', 'h');
